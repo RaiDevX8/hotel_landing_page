@@ -1,14 +1,12 @@
-﻿# hotel_landing_page
 Tech Stack
-=> Frontend:
+Frontend:
 
-  HTML
-  Bootstrap (for styling)
-  JavaScript
-  
-=>Backend:
+HTML
+Bootstrap (for styling)
+JavaScript
+Backend:
 
- PHP
-=>Database:
+PHP
+Database:
 
 MySQL
